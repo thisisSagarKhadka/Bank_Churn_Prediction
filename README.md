@@ -1,5 +1,5 @@
 # Bank Churn Prediction
-Welcome to the Bank Churn Prediction project! This project aims to develop a machine learning model that predicts whether a customer will churn (leave) or stay with a bank, enabling proactive customer retention strategies.
+Welcome to the Bank Churn Prediction project! This project aims to develop a machine learning model that predicts whether a customer will churn (leave) or stay with a bank, helping to develop proactive customer retention strategies.
 
 ---
 
